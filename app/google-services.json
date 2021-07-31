@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49624281469",
+    "project_id": "chatbox-f0c11",
+    "storage_bucket": "chatbox-f0c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49624281469:android:7cb0a556ce489522b5dc14",
+        "android_client_info": {
+          "package_name": "com.palla.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49624281469-n8m1u6l5irjieef5nelc39tr0bbomg7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palla.chatbox",
+            "certificate_hash": "144f4b7df1ea28cf318464f2212beae1352b720c"
+          }
+        },
+        {
+          "client_id": "49624281469-9fgrsob4q9rurc15ubf443fhdfpeim0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2RrX0MeHMnFdtb88cii2H6NS-lSRVgfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49624281469-9fgrsob4q9rurc15ubf443fhdfpeim0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
